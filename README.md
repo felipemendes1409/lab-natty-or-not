@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# "Perdida na imensidão, encontrando poesia nas estrelas da Via Láctea. ✨🌌"
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Gerei uma imagem utilizando a ferramenta Image generation do site Leonardo AI e depois a ferramenta Motion do mesmo site para faze-la mover-se.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Leonardo AI ( Image Generation e Motion) ChatGPT para gerar o Prompt
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Usei como base a descrição "Uma garota de longos cabelos brancos, sentada em uma grande pedra, observando a Via Láctea com o céu noturno estrelado, um vasto campo de flores e iluminado pela lua."
+Para gerar o prompt no ChatGPT
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<h4>"Às vezes, é no silêncio da noite que encontramos as respostas que o dia nos negou."</h4>
+Foi bastante divertido fazer esse desafio, procurei por diversas IA para gerar as imagens e por final encontrei o Leonardo AI, um site que disponibiliza 150 coins para utilizar gratuitamente alguns recursos
+que por sinal são ótimos. Fiz varias imagens e escolhi a mais realista possivel.
+Ainda preciso aprender mais para melhorar, <p>mas esse pequeno passo é o começo de uma longa jornada no mundo das IA.</p>
